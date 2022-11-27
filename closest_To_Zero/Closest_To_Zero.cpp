@@ -24,7 +24,7 @@ int findClosestNumber(vector<int> &nums)
 
 int main()
 {
-    vector<int> nums{-4,-2,1,4,8};
+    vector<int> nums{2,-1,1};
     cout<< "Close to zero :"<<findClosestNumber(nums);
 
 }
