@@ -17,7 +17,7 @@ int floorSqrt(int x)
 int main()
 {
 	int x;
-    cout<<"Enter Number: \n";
+    cout<<"Enter Number: \n"
     cin>>x;
 
     try
